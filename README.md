@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![tails](https://64.media.tumblr.com/82978329c519c7ac767ffd9059ef05fa/83148dff6eaf4279-3d/s640x960/ecf6382e3944b50d6c42fe6d44ff4042f4750950.gifv)
+![tails](https://i.imgur.com/tBAgG25.gif)
 
 ### ⚙️ tools  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
