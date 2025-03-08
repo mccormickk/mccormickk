@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![tails](https://i.imgur.com/tBAgG25.gif)
+![tails](https://media1.tenor.com/m/28BLLKAVwb4AAAAC/sonic-the-hedgehog-tails-the-fox.gif)
 
 ### ⚙️ tools  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
