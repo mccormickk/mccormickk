@@ -41,4 +41,4 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/925746979458388038)](https://discord.com/users/925746979458388038)
+[![Discord Presence](https://lanyard.cnrad.dev/api/925746979458388038?hideDecoration=true)](https://discord.com/users/925746979458388038)
