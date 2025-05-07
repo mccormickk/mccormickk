@@ -33,7 +33,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-![yamada](https://pbs.twimg.com/media/GDp6LuyWsAANE2E?format=png&name=large)
+![puriririririri-art](https://i.imgur.com/4xeKwav.png)
 
 
 ---
