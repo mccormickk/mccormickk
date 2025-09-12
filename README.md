@@ -36,7 +36,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-![puriririririri-art](https://i.imgur.com/4xeKwav.png)
+![puriririririri-art](https://i.imgur.com/1G23BNJ.png)
 
 
 ---
