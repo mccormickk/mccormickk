@@ -1,4 +1,4 @@
-# oh, konnichiwa!
+# hello, world!
 
 17 yo backend developer 🇦🇿
 
