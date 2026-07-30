@@ -1,6 +1,6 @@
 # hello, world!
 
-17 yo backend developer 🇦🇿
+17 yo backend developer 🇦🇿 🇬🇪
 
 ## 🧩 stuff i made
 
