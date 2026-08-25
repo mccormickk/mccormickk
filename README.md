@@ -8,10 +8,10 @@
 2. [`rikka-core`](https://github.com/mccormickk/rikka-core) - core for a modular discord bot for **javascript**
 3. [`ts-core-discord-bot`](https://github.com/mccormickk/ts-core-discord-bot) - core for a modular discord bot for **typescript**
 
-## 💼 organization
+## 🗂️ organizations
 
-1. [`RIDS Agency`](https://github.com/ridsteam/) - backend developer
-2. [`iRPG Team`](https://github.com/irpgteam/) - founder/lead developer
+1. [`rids.az`](https://rids.az) - backend developer
+2. [`irpg.cc`](https://irpg.cc) - founder/lead developer
 
 ## 🤝 connect with me
 
