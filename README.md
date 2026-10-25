@@ -1,6 +1,6 @@
 # hello, world!
 
-18 yo backend developer 🇦🇿 🇬🇪
+18 yo typescript developer 🇦🇿 🇬🇪
 
 ## 🧩 stuff i made
 
